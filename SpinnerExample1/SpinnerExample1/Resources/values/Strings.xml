@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">SpinnerExample1</string>
+  <string name="web_prompt">Choose a Language</string>
+  <string-array name="language">
+    <item>Android</item>
+    <item>IOS</item>
+    <item>Cross Platform</item>
+    <item>Cloud</item>
+  </string-array>
+</resources>
